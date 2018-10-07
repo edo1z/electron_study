@@ -1,0 +1,14 @@
+{
+  "name": "hoge",
+  "version": "1.0.0",
+  "description": "hoge",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "edo1z",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^2.0.0"
+  }
+}
