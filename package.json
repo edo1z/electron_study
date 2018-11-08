@@ -9,7 +9,8 @@
   "author": "edo1z",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^2.0.0"
+    "electron": "^2.0.0",
+    "electron-builder": "^20.31.2"
   },
   "dependencies": {
     "express": "^4.16.3"
