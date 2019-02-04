@@ -8,16 +8,18 @@
   },
   "build": {
     "directories": {
-	  "output": "build"
-	}
+      "output": "build"
+    }
   },
   "author": "edo1z",
   "license": "MIT",
   "devDependencies": {
+    "devtron": "^1.4.0",
     "electron": "^2.0.0",
     "electron-builder": "^20.31.2"
   },
   "dependencies": {
+    "electron-debug": "^2.1.0",
     "express": "^4.16.3"
   }
 }
