@@ -16,4 +16,6 @@ exports.stop = () => {
 function calc() {
   count++
   console.log(count)
+  const hoge = document.getElementById('hoge')
+  hoge.innerHTML = count
 }

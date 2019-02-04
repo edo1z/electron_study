@@ -6,6 +6,11 @@
   "scripts": {
     "start": "electron ."
   },
+  "build": {
+    "directories": {
+	  "output": "build"
+	}
+  },
   "author": "edo1z",
   "license": "MIT",
   "devDependencies": {
