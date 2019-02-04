@@ -2,3 +2,5 @@
 node_modules
 hoge-linux-x64
 build
+hoge-*
+dist
